@@ -12,13 +12,14 @@ console.log(produtos);
 
 
 console.log("O 'push' serve para adicionar um item no final do Array");
-console.log(produtos.push("açúcar"));
+produtos.push("açúcar");
 console.log(produtos);
 
 console.log("O 'shift' serve para excluir o primeiro item do Array");
-console.log(produtos);
 produtos.shift();
+console.log(produtos);
+
 
 console.log("O 'unshift' serve para adicionar um item no início do Array");
-produtos.unshif("nozes");
-console.log();
+produtos.unshif("nozes.");
+console.log(produtos);
