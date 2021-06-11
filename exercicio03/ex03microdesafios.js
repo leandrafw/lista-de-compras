@@ -21,5 +21,5 @@ console.log(produtos);
 
 
 console.log("O 'unshift' serve para adicionar um item no início do Array");
-produtos.unshif("nozes.");
+produtos.unshif("nozes");
 console.log(produtos);
