@@ -10,7 +10,6 @@ console.log("O 'pop' serve para excluir o último item do Array");
 produtos.pop();
 console.log(produtos);
 
-
 console.log("O 'push' serve para adicionar um item no final do Array");
 produtos.push("açúcar");
 console.log(produtos);
@@ -18,7 +17,6 @@ console.log(produtos);
 console.log("O 'shift' serve para excluir o primeiro item do Array");
 produtos.shift();
 console.log(produtos);
-
 
 console.log("O 'unshift' serve para adicionar um item no início do Array");
 produtos.unshif("nozes");
