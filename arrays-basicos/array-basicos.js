@@ -1,5 +1,5 @@
 // Aula 05 - 11/06/2021
-// Lista de compras brownie - microdesafio
+// Microdesafio - Lista de compras brownie 
 
 let produtos = ["nescau", "margarina", "farinha", "chocolate em pó", "ovos", "baunilha"];
 
