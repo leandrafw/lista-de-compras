@@ -13,7 +13,7 @@ let nomes = ['Marcos', 'Maria', 'Manoela', 'Maria', 'Marcelo', 'Maria'];
 let maria = nomes.filter(
     function(nome){
          if(nome === 'Maria') return nome;
-    });
+});
 console.log(maria);
 
 //3- Crie um array de números e utilize a função .reduce() para devolver uma string com os números formatados.
