@@ -1,15 +1,11 @@
 // Aula 07 - 17/06/2021
 // microdesafio callback
 let acaoCarro = (callback) => {
-console.log("o carro " + callback);
+    console.log("o carro " + callback);
 }
-let andar = () => {
-    return "está andando"
+let andar = () => "está andando.";
 
-}
-let parar = () => {
-    return "parou"
+let parar = () =>"parou.";
 
-}
 acaoCarro(andar());
 acaoCarro(parar());
